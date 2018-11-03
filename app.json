@@ -1,4 +1,9 @@
 {
-  "name": "ArmidasApp",
-  "displayName": "ArmidasApp"
-}
+  "expo": {
+    "name": "ArmidasApp",
+    "description": "A very interesting project.",
+    "slug": "Armida-s-App",
+    "privacy": "public",
+    "sdkVersion": "30.0.0"
+  }
+  }
